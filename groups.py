@@ -1,6 +1,7 @@
 from hashlib import sha1
 from random import getrandbits
 
+
 class Member(object):
     userID=-1
     def __str__(self):
